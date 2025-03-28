@@ -1,11 +1,11 @@
-.header {color: black; background-color: #f1f1f1;
+.header {color: black; background-color: LightCyan;
              padding: 20px; text-align: center;
              }
 
-.footer{color: black; background-color: #f1f1f1; padding: 20px; text-align: center;}
+.footer{color: black; background-color: LightCyan; padding: 20px; text-align: center;}
 
 
-.menu {overflow: hidden; background-color: #f1f1f1;}
+.menu {overflow: hidden; background-color: #DCDCDC;}
 .menu a {
   float: left; display: block; color: Red; text-align: center; padding: 14px 16px; text-decoration: none;
 }
